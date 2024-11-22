@@ -2,7 +2,7 @@
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions before run the application.
 
-## 1. Clone project from [git](https://reactnative.dev/docs/environment-setup) 
+## 1. Clone project from [git](https://github.com/gaganalakruwan/TournamentApp.git) 
 
 ## 2. Install node_module using package manager (npm or yarn)
 
